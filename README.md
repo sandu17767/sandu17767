@@ -2,7 +2,8 @@
 
 **Data Analyst | SQL • Python • Power BI | Retail & Commercial Analytics**
 
-Final-year BEng (Hons) Software Engineering student (2026) with a strong focus on commercial data analytics and customer behaviour modelling.
+
+Final-year BEng (Hons) Software Engineering student (2026) specialising in commercial data analytics, customer behaviour modelling, and revenue performance evaluation.
 
 ---
 
