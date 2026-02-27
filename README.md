@@ -1,4 +1,4 @@
-# Hi, I’m Sanduni 👋  
+# Hi, I’m Sanduni  
 
 **Data Analyst | SQL • Python • Power BI | Retail & Commercial Analytics**
 
