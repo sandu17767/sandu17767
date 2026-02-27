@@ -1,6 +1,6 @@
 # Hi, I’m Sanduni 👋  
 
-**Aspiring Data Analyst | SQL • Python • Power BI | Retail & Commercial Analytics**
+** Data Analyst | SQL • Python • Power BI | Retail & Commercial Analytics**
 
 Final-year BEng (Hons) Software Engineering student (2026) with a strong focus on commercial data analytics and customer behaviour modelling.
 
